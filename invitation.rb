@@ -1,13 +1,13 @@
 # Code your prompts here!
-puts "What is the guest's name?"
+puts "Guest's Name?"
 guest_name = gets
-puts "What is the name of the party?"
+puts "Party Name?"
 party_name = gets
-puts "What is the date of the party?"
+puts "Date?"
 date = gets
-puts "What time is the party at?"
+puts "Time?"
 time = gets
-puts "What is the host's name?"
+puts "Host's Name?"
 host_name = gets
 # Try starting out with puts'ing a string.
 puts "Dear #{guest_name}, You are cordially invited to
